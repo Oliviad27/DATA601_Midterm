@@ -1,21 +1,20 @@
 # Wine Wars
 
 ## Table of Contents 
-<pre>
 
-[Notebook](https://github.com/Oliviad27/DATA601_Midterm/blob/main/DATA601_Midterm.ipynb)
 
-</pre>
-
-<pre>
-
+[Project Notebook](https://github.com/Oliviad27/DATA601_Midterm/blob/main/DATA601_Midterm.ipynb)
+<br>
 [Overview](https://github.com/Oliviad27/DATA601_Midterm#overview)
+<br>
 [Goals](https://github.com/Oliviad27/DATA601_Midterm#goals)
+<br>
 [Motivation & Background](https://github.com/Oliviad27/DATA601_Midterm#motivation--background)
+<br>
 [Data](https://github.com/Oliviad27/DATA601_Midterm#data)
+<br>
 [Packages & Software](https://github.com/Oliviad27/DATA601_Midterm#packages--software)
 
-</pre>
 
 ## Overview
 I used a supervised classifcation model for this project, in order to sort the wines into two categories: red or white. This involved me importing the data, performing an analysis, then cleaning, scaling, and modeling the data.
@@ -31,8 +30,10 @@ I downloaded this dataset from [Kaggle](https://www.kaggle.com/numberswithkartik
 
 ## Packages & Software
 Languages: Python
+<br>
 Tools/IDE: Jupyter Notebook
+<br>
 Libraries: pandas, matplotlib, sklearn
 
 
-[License](MIT)
+License: MIT
