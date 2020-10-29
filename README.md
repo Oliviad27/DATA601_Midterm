@@ -2,9 +2,11 @@
 
 ## Table of Contents 
 
-
+#### Code
 [Project Notebook](https://github.com/Oliviad27/DATA601_Midterm/blob/main/DATA601_Midterm.ipynb)
 <br>
+<br>
+#### ReadMe
 [Overview](https://github.com/Oliviad27/DATA601_Midterm#overview)
 <br>
 [Goals](https://github.com/Oliviad27/DATA601_Midterm#goals)
@@ -29,11 +31,11 @@ I was interested in this because, I personally, am not a huge fan of wine. In a 
 I downloaded this dataset from [Kaggle](https://www.kaggle.com/numberswithkartik/red-white-wine-dataset?select=wine_dataset.csv). The set contains data on thousands of wines. The columns include Fixed Acidity, Volatile Acidity, 	Citric Acid,	Residual Sugar,	Chlorides,	Free Sulfur Dioxide,	Total Sulfur Dioxide,	Density	pH,	Sulphates, Alcohol,	Quality, and Style.
 
 ## Packages & Software
-Languages: Python
+Languages : Python
 <br>
-Tools/IDE: Jupyter Notebook
+Tools/IDE : Jupyter Notebook
 <br>
-Libraries: pandas, matplotlib, sklearn
+Libraries : pandas, matplotlib, sklearn
 
 
-License: MIT
+License : MIT
