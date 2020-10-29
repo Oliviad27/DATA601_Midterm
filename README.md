@@ -29,6 +29,12 @@ I was interested in this because, I personally, am not a huge fan of wine. In a 
 
 ## Data
 I downloaded this dataset from [Kaggle](https://www.kaggle.com/numberswithkartik/red-white-wine-dataset?select=wine_dataset.csv). The set contains data on thousands of wines. The columns include Fixed Acidity, Volatile Acidity, 	Citric Acid,	Residual Sugar,	Chlorides,	Free Sulfur Dioxide,	Total Sulfur Dioxide,	Density	pH,	Sulphates, Alcohol,	Quality, and Style.
+<bre>
+  
+  
+![Distribution of Data](https://github.com/Oliviad27/DATA601_Midterm/blob/main/RedvWhite.png)
+
+
 
 ## Packages & Software
 Languages : Python
